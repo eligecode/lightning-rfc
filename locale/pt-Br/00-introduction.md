@@ -1,6 +1,6 @@
 # BOLT #0: Introdução e Indices
 
-Welcome, friend! These Basis of Lightning Technology (BOLT) documents
+Bem vindo, Amigo! Essas são Bases da Tecnologia Relâmpago (BOLT) **documents
 describe a layer-2 protocol for off-chain bitcoin transfer by mutual
 cooperation, relying on on-chain transactions for enforcement if
 necessary.
